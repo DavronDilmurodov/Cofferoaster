@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Fraunces";
+  background-color: #fefcf7;
+  color: #333d4b;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+p {
+  font-family: "Barlow";
+  font-weight: 400;
+  color: #fefcf7;
+  font-size: 16px;
+  line-height: 26px;
+}
